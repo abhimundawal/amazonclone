@@ -1,2 +1,2 @@
-# amazonclone
-Fully functional amazon clone 
+# amazon-clone
+amazon clone
